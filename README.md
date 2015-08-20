@@ -1,2 +1,1 @@
-# reglas
-Reglas de comportamiento para HashtagChile
+# Guía de buen comportamiento en HashtagChile
